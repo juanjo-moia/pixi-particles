@@ -1,0 +1,19 @@
+{
+  "name": "pixi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.19.0",
+    "@typescript-eslint/parser": "^5.19.0",
+    "eslint": "^8.13.0",
+    "vite": "^2.9.5"
+  },
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@pixi/particle-emitter": "^5.0.5",
+    "pixi.js": "^6.3.0"
+  }
+}
